@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 Hello update on local repo
+=======
+Hello update on Github
+>>>>>>> e707a0a7fa7a0f9928b26ce9818a37337c080bf3
